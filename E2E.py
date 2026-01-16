@@ -49,7 +49,7 @@ def print_logo():
 ║                                                           ║
 ║        {Colors.YELLOW}Facebook Messenger Automation Tool{Colors.CYAN}              ║
 ║                                                           ║
-║              {Colors.GREEN}Created by: Sahil Ansari{Colors.CYAN}                   ║
+║              {Colors.GREEN}Created by: SADHIN{Colors.CYAN}                   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 {Colors.RESET}"""
